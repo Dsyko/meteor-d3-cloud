@@ -6,6 +6,6 @@
 	"version": "1.0.2",
 	"git": "https://github.com/Dsyko/meteor-d3-cloud.git",
 	"packages": {
-		"d3js-package": "0.5.1"
+		"d3":{}
 	}
 }

@@ -1,4 +1,1 @@
 
-[submodule "UpdatedD3Cloud"]
-	path = d3-cloud
-	url = git@github.com:Dsyko/d3-cloud.git

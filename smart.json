@@ -3,6 +3,6 @@
 	"description": "Latest version of d3-cloud, packaged for Meteor",
 	"homepage": "https://github.com/Dsyko/meteor-d3-cloud",
 	"author": "David Sykora",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"git": "https://github.com/Dsyko/meteor-d3-cloud.git"
 }
